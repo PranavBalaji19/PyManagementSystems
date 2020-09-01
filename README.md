@@ -5,4 +5,4 @@
 
 #### Install MySQL connector and other necessary dependencies to use my code.
 
-###### Please ***STAR*** if you liked this :)
+###### Please ***STAR*** my repos, if you liked it :)
